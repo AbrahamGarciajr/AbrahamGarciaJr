@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Familiar Frameworks/ Languages/ Tools
+<div>
 <img align="left" width="26px" alt="Javascript logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
 <img align="left" width="26px" alt="Python logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
 <img align="left" width="26px" alt="SQL logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
@@ -29,6 +30,8 @@ Here are some ideas to get you started:
 <img align="left" width="26px" alt="VSCode logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
 <img align="left" width="26px" alt="Node.js logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
 <img align="left" width="26px" alt="Ubuntu logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+</div>
+
 
 
 
