@@ -33,19 +33,20 @@ Here are some ideas to get you started:
 
 <br />
 
- ### Online Presence/ Contact Info:
+ ### Online Presence
 <div id="badges">
   <a href="https://www.linkedin.com/in/abraham-garcia-822a2a344/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/abraham-garcia-822a2a344/">
-    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
-  </a>
-
- 
-  <a href="">
-    <img src="https://img.shields.io/badge/gmail-agarciasantos14%40gmail.com-red" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+ ### Contact
+  <a href="mailto:agarciasantos14@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-agarciasantos14%40gmail.com-red" alt="Gmail Badge"/>
+  </a>
+
 
 
