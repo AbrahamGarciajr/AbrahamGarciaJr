@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I broke a bone and didn't even know it was broken until it already healed :) #builtDiff
 
 
-### Familiar Frameworks
+### Familiar Frameworks/ Languages
  <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://img.freepik.com/free-vector/instagram-logo_1199-122.jpg?semt=ais_hybrid" alt="Javascript badge" style="vertical-align:top margin:6px 4px">
   </a> 
 
 
