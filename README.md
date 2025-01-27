@@ -48,5 +48,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/gmail-agarciasantos14%40gmail.com-red" alt="Gmail Badge"/>
   </a>
 
+  <img src="https://img.shields.io/badge/discord-abrahamgarciajr-purple" alt="Discord badge" />
+
 
 
