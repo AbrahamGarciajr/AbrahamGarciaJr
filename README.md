@@ -33,15 +33,16 @@ Here are some ideas to get you started:
 
 <br />
 
- ### Online Presence:
+ ### Online Presence/ Contact Info:
 <div id="badges">
   <a href="https://www.linkedin.com/in/abraham-garcia-822a2a344/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/gmail-agarciasantos14%40gmail.com-white" alt="Twitter Badge"/>
-  </a>
+
  
+  <a href="">
+    <img src="https://img.shields.io/badge/gmail-agarciasantos14%40gmail.com-red" alt="Gmail Badge"/>
+  </a>
 </div>
 
 
