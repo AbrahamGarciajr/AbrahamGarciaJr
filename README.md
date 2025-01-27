@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <img align="left" width="26px" alt="Javascript logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
 <img align="left" width="26px" alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
 <img align="left" width="26px" alt="SQLite3 logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL0PMGDkkkufkdgxO2YUft81X9B3Nfk5fWBw&s"/>
-<img align="left" width="26px" alt="React logo" src="https://github.com/user-attachments/assets/bb708584-cc4c-4e02-9e05-90fed50efca8"/>
+<img align="left" width="26px" alt="React logo" src="https://github.com/user-attachments/assets/418d8029-ad91-4c2f-b6af-0c18fd314472"/>
 <img align="left" width="26px" alt="Express.js logo" src="https://github.com/user-attachments/assets/a66436c4-aff5-4172-a268-469cec7f4a82"/>
-<img align="left" width="26px" alt="Flask logo" src=""/>
-<img align="left" width="26px" alt="AWS logo" src=""/>
-<img align="left" width="26px" alt="Postman logo" src=""/>
-<img align="left" width="26px" alt="Github logo" src=""/>
-<img align="left" width="26px" alt="VSCode logo" src=""/>
-<img align="left" width="26px" alt="Node.js logo" src=""/>
-<img align="left" width="26px" alt="Ubuntu logo" src=""/>
+<img align="left" width="26px" alt="Flask logo" src="https://github.com/user-attachments/assets/aaa303bb-2319-493f-aafd-c18845131918"/>
+<img align="left" width="26px" alt="AWS logo" src="https://github.com/user-attachments/assets/4f1a66e5-4ea8-4b30-891a-2afc108d6b41"/>
+<img align="left" width="26px" alt="Postman logo" src="https://github.com/user-attachments/assets/60e65be4-4402-4024-b444-bc0589c7da39"/>
+<img align="left" width="26px" alt="Github logo" src="https://github.com/user-attachments/assets/903d91e1-73e5-477e-aff6-3817d439e4d7"/>
+<img align="left" width="26px" alt="VSCode logo" src="https://github.com/user-attachments/assets/bbc340ba-cf91-49d6-99ac-8343b3c4b568"/>
+<img align="left" width="26px" alt="Node.js logo" src="https://github.com/user-attachments/assets/1e563236-8b55-4c4d-8b81-d8ed25aa3a90"/>
+<img align="left" width="26px" alt="Ubuntu logo" src="https://github.com/user-attachments/assets/e9d5fdd8-090d-4c5c-a4b1-7521303ced58"/>
 </div>
 
 
