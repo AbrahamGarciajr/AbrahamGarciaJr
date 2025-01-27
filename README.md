@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ### Familiar Frameworks/ Languages/ Tools
 <div>
+  <a href="#">
+    <img src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
 <img align="left" width="26px" alt="Javascript logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
 <img align="left" width="26px" alt="Python logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
 <img align="left" width="26px" alt="SQL logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
