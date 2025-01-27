@@ -38,9 +38,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/abraham-garcia-822a2a344/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/abraham-garcia-822a2a344/">
+    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
+  </a>
 
  
-  <a align='right' href="">
+  <a href="">
     <img src="https://img.shields.io/badge/gmail-agarciasantos14%40gmail.com-red" alt="Gmail Badge"/>
   </a>
 </div>
