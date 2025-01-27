@@ -39,10 +39,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Instagram-?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/gmail-agarciasantos14%40gmail.com-white" alt="Twitter Badge"/>
   </a>
- ![Static Badge](https://img.shields.io/badge/gmail-agarciasantos14%40gmail.com-white)
-
+ 
 </div>
 
 
