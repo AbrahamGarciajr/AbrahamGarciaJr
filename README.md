@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 
 ### Familiar Frameworks/ Languages/ Tools
-<img align="left" alt="Javascript logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="Python logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="SQL logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="React logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="Express.js logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="Flask logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="AWS logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="Postman logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="Github logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="VSCode logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="Node.js logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
-<img align="left" alt="Ubuntu logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="Javascript logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="Python logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="SQL logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="React logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="Express.js logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="Flask logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="AWS logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="Postman logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="Github logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="VSCode logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="Node.js logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" width="26px" alt="Ubuntu logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
 
 
 
