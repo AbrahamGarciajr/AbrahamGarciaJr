@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 ## Hi! I am Abraham Garcia Jr
 - 🔭 I’m currently working on revising some old projects like:
-  * <a href="https://github.com/markklt77/Python-Group-Project/tree/part-time">Spotify2</a>
+  * <a target="blank_" href="https://github.com/markklt77/Python-Group-Project/tree/part-time">Spotify2</a>
 - 🌱 I’m currently learning more nitty gritty cool things on js and python 
 - 💬 Ask me about ... anything!
 - 😄 Pronouns: He/Him
