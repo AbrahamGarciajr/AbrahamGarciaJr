@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ### Online presents:
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://www.linkedin.com/in/abraham-garcia-822a2a344/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
