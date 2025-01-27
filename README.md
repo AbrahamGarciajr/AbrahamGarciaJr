@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <div>
  I am originaly from Oakland, CA. I wanted to be a teacher at first but did a good ol flip switch after I recieved my degree and credentials. Now I am an up and coming Software Engineer looking forward for what the future has in store! I am a huge fan of the Lakers, but you wouldn't guess that from the way I talk about them. I also am a fan of the Raiders and A's but I can only go to a baseball game to watch it, I just can't sit down in front of a TV and watch baseball. I'll watch any sport honestly. But I also enjoy playing video games on my freetime with my cousins, send me your fortnite or rocket league handles and we can play!
 </div>
+<br />
 <div>
  I have amazing parents and sister along with a 16 year old white crusty dog and 3 very hefty cats. I love spending time with my extended family, you just have to know when is the right time to leave the function (hint: anything political is brought up). If you are coming from my linkedin I have done volunteer work but I'm too lazy to put it in there, it was all done in high school as a teacher aid for my teachers and helping/reading to younger students in elementary schools. 
 </div>
