@@ -16,10 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I broke a bone and didn't even know it was broken until it already healed :) #builtDiff
 
 
-### Familiar Frameworks/ Languages
- <a href="#">
-    <img src="https://img.freepik.com/free-vector/instagram-logo_1199-122.jpg?semt=ais_hybrid" alt="Javascript badge" style="vertical-align:top margin:6px 4px">
-  </a> 
+### Familiar Frameworks/ Languages/ Tools
+<img align="left" alt="Javascript logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="Python logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="SQL logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="React logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="Express.js logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="Flask logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="AWS logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="Postman logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="Github logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="VSCode logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="Node.js logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
+<img align="left" alt="Ubuntu logo" src="https://github.com/user-attachments/assets/9436fa71-2e2e-40d0-ae56-eac6552603c0"/>
 
 
 
