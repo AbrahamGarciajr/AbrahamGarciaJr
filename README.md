@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   </a>
 
  
-  <a href="">
+  <a align='right' href="">
     <img src="https://img.shields.io/badge/gmail-agarciasantos14%40gmail.com-red" alt="Gmail Badge"/>
   </a>
 </div>
