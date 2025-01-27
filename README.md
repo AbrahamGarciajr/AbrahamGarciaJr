@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I broke a bone and didn't even know it was broken until it already healed :) #builtDiff
 
-### Get in Touch:
+
+### Familiar Frameworks
+ <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+
+
+
+### Online presents:
 <div id="badges">
   <a href="https://www.linkedin.com/in/abraham-garcia-822a2a344/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
