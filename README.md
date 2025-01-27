@@ -23,7 +23,7 @@ I am originally from Oakland, CA. I wanted to be a teacher at first but did a go
 </div>
 <br />
 <div>
-I have amazing parents and a sister, along with a 16-year-old white, crusty white dog and three very hefty cats. I love spending time with my extended family—you just have to know when is the right time to leave the function (hint: when anything political is brought up). If you are coming from my LinkedIn, I have done volunteer work, but I'm just too lazy to put it in there. It was all done in high school as a teacher's aide for my teachers and by helping/reading to younger students in elementary schools.
+I have amazing parents and a sister, along with a 16-year-old crusty white dog and three very hefty cats. I love spending time with my extended family—you just have to know when is the right time to leave the function (hint: when anything political is brought up). If you are coming from my LinkedIn, I have done volunteer work, but I'm just too lazy to put it in there. It was all done in high school as a teacher's aide for my teachers and by helping/reading to younger students in elementary schools.
 </div>
 
 
