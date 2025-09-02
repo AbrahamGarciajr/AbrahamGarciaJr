@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ### A Little More Info
 <div>
-I am originally from Oakland, CA. I wanted to be a teacher at first but did a good old flip switch after I received my degree and credentials. Now I am an up-and-coming Software Engineer looking forward to what the future has in store! I am a huge fan of the Lakers, but you wouldn't guess that from the way I talk about them. I am also a fan of the Raiders and A's, but I can only go to a baseball game to watch it—I just can't sit down in front of a TV and watch baseball. I'll watch any sport, honestly. I also enjoy playing video games in my free time with my cousins. Send me your Fortnite or Rocket League handles, and we can play!
+I am from the Bay Area (Oakland, CA). I was originally in the Education Field but after completing App Academy's coding bootcamp I am now confidently building full-stack applications. I'm a huge Laker fan, even though I talk so much trash on them. Other than basketball I'll try to go see other sports live. If I'm not working or coding I enjoy playing video games in my spare time. Send me your Fortnite or Rocket League handles, and we can play!
 </div>
 <br />
 <div>
-I have amazing parents and a sister, along with a 16-year-old crusty white dog and three very hefty cats. I love spending time with my extended family—you just have to know when is the right time to leave the function (hint: when anything political is brought up). If you are coming from my LinkedIn, I have done volunteer work, but I'm just too lazy to put it in there. It was all done in high school as a teacher's aide for my teachers and by helping/reading to younger students in elementary schools.
+Currently working as a full stack software engineering intern at LVC Solutions, building responsive web applications using React and Bootstrap.
 </div>
 
 
