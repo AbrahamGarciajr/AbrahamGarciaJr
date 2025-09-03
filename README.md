@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything!
 - 😄 Pronouns: He/Him
 - 🎓 Schooling:
-  * Recent Grad from App Academy
+  * App Academy grad
   * I have my teaching credentials from Chico State
   * I have a BA in Liberal Studies and minor in Child Dev, also from Chico State
 - ⚡ Fun fact: I broke a bone and didn't even know it was broken until it already healed :) #builtDiff
