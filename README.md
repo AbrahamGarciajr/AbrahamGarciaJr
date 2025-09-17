@@ -9,13 +9,13 @@ Here are some ideas to get you started:
   * <a href="https://github.com/markklt77/Python-Group-Project/tree/part-time">Spotify2</a>
   * <a href="https://github.com/AbrahamGarciajr/solo-project-drink-rate">DrinkRate</a>
 - 🌱 I’m currently learning more nitty gritty cool things on js and python so that I can greatly imrpove some old projects!
+       Along with working learning/working with bootstrap for my internship at LVC
 - 💬 Ask me about ... anything!
 - 😄 Pronouns: He/Him
 - 🎓 Schooling:
   * App Academy grad
   * I have my teaching credentials from Chico State
   * I have a BA in Liberal Studies and minor in Child Dev, also from Chico State
-- ⚡ Fun fact: I broke a bone and didn't even know it was broken until it already healed :) #builtDiff
 
 ### A Little More Info
 <div>
